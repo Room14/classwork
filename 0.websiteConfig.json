@@ -1,4 +1,16 @@
 {
-"siteName":"",
-"siteDescription":"Here is the classwork for FIS Room 14."
+  "siteName": "",
+  "siteDescription": "Here is the classwork for FIS Room 14.",
+  "newsletter": [
+    {
+      "time": "21/06/2020",
+      "decription": "Our first Newsletter!",
+      "url": "https://github.com/Room14/Rhi7jyaBEBwZuG90cO10HBEMymtn5ixs2UDe8fAO/blob/master/My%20Post.png?raw=true"
+    },
+    {
+      "time": "???",
+      "decription": "Scott, come on, make another newsletter already!",
+      "url": "https://google.com"
+    }
+  ]
 }
