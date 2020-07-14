@@ -12,5 +12,21 @@
       "description": "Scott, come on, make another newsletter already!",
       "url": "https://google.com"
     }
+  ],
+  "challenges": [
+    {
+      "date": "15/07/2020",
+      "question": "The number 64 has the property that it is divisible by its units digit. How many whole numbers between 10 and 50 have this property?",
+      "type": "AMC",
+      "choices": "(A)15 (B)16 (C)17 (D)18 (E)20",
+      "answer": "C"
+    },
+    {
+      "date": "16/07/2020",
+      "question": "You have nine coins: a collection of pennies, nickels, dimes, and quarters having a total value of $1.02, with at least one coin of each type. How many dimes must you have?",
+      "type": "AMC",
+      "choices": " (A)1  (B)2  (C)3  (D)4  (E)5",
+      "answer": "A"
+    }
   ]
 }
