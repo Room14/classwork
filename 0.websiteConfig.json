@@ -15,7 +15,7 @@
   ],
   "challenges": [
     {
-      "date": "15/07/2020",
+      "date": "18/07/2020",
       "question": "The number 64 has the property that it is divisible by its units digit. How many whole numbers between 10 and 50 have this property?",
       "type": "AMC",
       "choices": "(A)15 (B)16 (C)17 (D)18 (E)20",
@@ -23,7 +23,7 @@
       "difficulty": "Medium. ~5 mins."
     },
     {
-      "date": "16/07/2020",
+      "date": "19/07/2020",
       "question": "You have nine coins: a collection of pennies, nickels, dimes, and quarters having a total value of $1.02, with at least one coin of each type. How many dimes must you have?",
       "type": "AMC",
       "choices": " (A)1  (B)2  (C)3  (D)4  (E)5",
@@ -31,7 +31,7 @@
       "difficulty": "Easy. ~4 mins."
     },
     {
-      "date": "17/07/2020",
+      "date": "20/07/2020",
       "question": "On a trip to the beach, Anh traveled 50 miles on the highway and 10 miles on a coastal access road. He drove three times as fast on the highway as on the coastal road. If Anh spent 30 minutes driving on the coastal road, how many minutes did his entire trip take?",
       "type": "AMC",
       "choices": "(A)50 (B)70 (C)80 (D)90 (E)100",
@@ -39,36 +39,36 @@
       "difficulty": "Quick & Sharp. ~3 mins."
     },
     {
-      "date":"18/07/2020",
-      "question":"Alex and Felicia each have cats as pets. Alex buys cat food in cylindrical cans that are cm in diameter and cm high. Felicia buys cat food in cylindrical cans that are cm in diameter and cm high. What is the ratio of the volume one of Alex's cans to the volume one of Felicia's cans?",
-      "type":"AMC",
-      "choices":"(A)1:4 (B)1:2 (C)1:1 (D)2:1 (E)4:1",
-      "answer":"B",
-      "difficulty":"Hard & Pointy. ~5 mins."
+      "date": "21/07/2020",
+      "question": "Alex and Felicia each have cats as pets. Alex buys cat food in cylindrical cans that are cm in diameter and cm high. Felicia buys cat food in cylindrical cans that are cm in diameter and cm high. What is the ratio of the volume one of Alex's cans to the volume one of Felicia's cans?",
+      "type": "AMC",
+      "choices": "(A)1:4 (B)1:2 (C)1:1 (D)2:1 (E)4:1",
+      "answer": "B",
+      "difficulty": "Hard & Pointy. ~5 mins."
     },
     {
-      "date":"19/07/2020",
-      "question":"",
-      "type":"",
-      "choices":"(A) (B) (C) (D) (E)",
-      "answer":"",
-      "difficulty":""
+      "date": "22/07/2020",
+      "question": "Isabella has coupons that can be redeemed for free ice cream cones at Pete's Sweet Treats. In order to make the coupons last, she decides that she will redeem one every days until she has used them all. She knows that Pete's is closed on Sundays, but as she circles the dates on her calendar, she realizes that no circled date falls on a Sunday. On what day of the week does Isabella redeem her first coupon?",
+      "type": "AMC",
+      "choices": "(A)Monday (B)Tuesday (C)Wednesday (D)Thursday (E)Friday",
+      "answer": "C",
+      "difficulty": "Fun yet Hard. ~4 mins."
     },
     {
-      "date":"20/07/2020",
-      "question":"",
-      "type":"",
-      "choices":"(A) (B) (C) (D) (E)",
-      "answer":"",
-      "difficulty":""
+      "date": "23/07/2020",
+      "question": "",
+      "type": "",
+      "choices": "(A) (B) (C) (D) (E)",
+      "answer": "",
+      "difficulty": ""
     },
     {
-      "date":"21/07/2020",
-      "question":"",
-      "type":"",
-      "choices":"(A) (B) (C) (D) (E)",
-      "answer":"",
-      "difficulty":""
+      "date": "24/07/2020",
+      "question": "",
+      "type": "",
+      "choices": "(A) (B) (C) (D) (E)",
+      "answer": "",
+      "difficulty": ""
     }
   ]
 }
